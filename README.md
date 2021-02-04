@@ -5,7 +5,8 @@
 * 主要任务是 1.把布局写明白 2.把样式写明白
 * 使用FlexBox做网页排版
 * 基本上就使用html+css+js
-* 引入webpack打包
+
+* 引入webpack打包(暂时不急)
 
 # 后期规划
 * 为了体验会加入bootstrap

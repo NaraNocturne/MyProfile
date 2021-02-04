@@ -1,0 +1,19 @@
+.flex-container{
+    display: flex;
+    background-color: blue;
+    flex-direction: column;
+}
+
+.box{
+    width: 60px;
+    height: 60px;
+    background-color: #eee;
+    line-height: 60px;
+    border-radius:4px;
+    box-shadow: 0px 1px 3px rgba(0,0,0 .18);
+    font-size: 2em;
+}
+
+.One { background-color:red}
+.Two { background-color: blue;}
+.Thr { background-color: green;}
