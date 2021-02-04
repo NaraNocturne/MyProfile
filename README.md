@@ -1,7 +1,7 @@
 # MyProfile
 前端简历网页 慢慢扩充
 
-# 提交测试
+# 技术说明
 
 * 使用FlexBox做网页排版
 * 基本上就使用html+css+js 为了体验会加入bootstrap
