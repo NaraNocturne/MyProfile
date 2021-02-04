@@ -1,0 +1,32 @@
+ul{
+    list-style: none;margin: 0;padding: 0;    /* 取消ul样式 */
+}
+
+head-container{
+    display: flex;    /* 设定为flex item*/
+    flex-direction: row;
+    background-color: #eee;
+    border-radius: 100px;
+    padding: 1em;
+    justify-content: center;
+}
+
+warpper-container{
+    display: flex;
+    flex-wrap: row;
+    text-align: center;
+}
+
+.menu-item{
+    height: 60px;
+    width: 150px;
+    text-align: center;
+    flex-basis: auto;
+    flex-grow: 1;
+}
+
+
+.menu-main{background-color:#C26EE0;}
+.menu-profile{background-color:#18A842}
+.menu-article{background-color:#4B7558}
+.menu-data{background-color:#6CDB35}
